@@ -31,8 +31,24 @@ Here's an image about the **extra 6 number of episodes** when you finished purch
 ## 📚 Course Outline
 
 - **11. Avoiding Cartesian Chaos In Oracle SQL!**
+  - Video: [Mastering Oracle SQL Joins.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Mastering%20Oracle%20SQL%20Joins.mp4)
+  - Slide Deck: [Mastering Oracle SQL Joins.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Mastering%20Oracle%20SQL%20Joins.pdf)
+  - Infographic: [Mastering Oracle SQL Joins.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Mastering%20Oracle%20SQL%20Joins.png)
+  - Similar Podcast App: [Podcast-Avoiding Cartesian Chaos In Oracle SQL.html
+](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Avoiding%20Cartesian%20Chaos%20In%20Oracle%20SQL.html)
+
 - **12. Fixing Oracle CTE Sorts with INLINE!**
+  - Video: [Optimizing Oracle CTEs.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Optimizing%20Oracle%20CTEs.mp4)
+  - Slide Deck: [Oracle CTE Optimization.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20CTE%20Optimization.pdf)
+  - Infographic: [SQL Tuning Escaping Sort Traps.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/SQL%20Tuning%20Escaping%20Sort%20Traps.png)
+  - Similar Podcast App: [Podcast-Fixing Oracle CTE Sorts with INLINE.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Fixing%20Oracle%20CTE%20Sorts%20with%20INLINE.html)
+
 - **13. Fixing ORA-30926 Join Key Fan-Out!**
+  - Video: [Oracle MERGE Instability.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20MERGE%20Instability.mp4)
+  - Slide Deck: [Resolving Oracle MERGE Instability.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Resolving%20Oracle%20MERGE%20Instability.pdf)
+  - Infographic: [Resolving Database Stability Errors.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Resolving%20Database%20Stability%20Errors.png)
+  - Similar Podcast App: [Podcast-Fixing ORA-30926 Join Key Fan-Out.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Fixing%20ORA-30926%20Join%20Key%20Fan-Out.html)
+
 - ......
 
 
