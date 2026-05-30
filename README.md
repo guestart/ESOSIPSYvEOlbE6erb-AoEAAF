@@ -31,20 +31,20 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 ## 📚 Course Outline
 
 - **01. The Oracle Explain Plan illusion!** ✅
-  - Video: [Oracle SQL Performance.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20SQL%20Performance.mp4)
-  - Slide Deck: [Oracle SQL Performance - Explain Plan vs Display Cursor.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20SQL%20Performance%20-%20Explain%20Plan%20vs%20Display%20Cursor.pdf)
-  - Infographic: [SQL Performance Theory vs. Reality.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/SQL%20Performance%20Theory%20vs.%20Reality.png)
-  - Similar Podcast App: [Podcast-The Oracle Explain Plan illusion.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-The%20Oracle%20Explain%20Plan%20illusion.html) 
+  - Video: [Oracle SQL Performance.mp4]()
+  - Slide Deck: [Oracle SQL Performance - Explain Plan vs Display Cursor.pdf]()
+  - Infographic: [SQL Performance Theory vs. Reality.png]()
+  - Similar Podcast App: [Podcast-The Oracle Explain Plan illusion.html]()
 
 - **02. The Hidden DML Tax of Indexes!** 💰🔥
 
 - **03. Why Your Oracle Optimizer Is Lying?** 💰🔥
 
 - **04. Oracle Access versus Filter Predicates!** ✅
-  - Video: [Decoding SQL Plans.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Decoding%20SQL%20Plans.mp4)
-  - Slide Deck: [Oracle Performance X-Ray.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20Performance%20X-Ray.pdf)
-  - Infographic: [Database Access vs. Filter Predicates.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Database%20Access%20vs.%20Filter%20Predicates.png)
-  - Similar Podcast App: [Podcast-Oracle Access versus Filter Predicates.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Oracle%20Access%20versus%20Filter%20Predicates.html) 
+  - Video: [Decoding SQL Plans.mp4]()
+  - Slide Deck: [Oracle Performance X-Ray.pdf]()
+  - Infographic: [Database Access vs. Filter Predicates.png]()
+  - Similar Podcast App: [Podcast-Oracle Access versus Filter Predicates.html]()
 
 - **05. Why Oracle A-Time Numbers Are Deceiving?** 💰🔥
 
@@ -53,6 +53,10 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 - **07. Why Hard-Coded SQL Hints Fail?** 💰🔥
 
 - **08. How Duplicate Indexes Kill Oracle Performance?** ✅
+  - Video: []()
+  - Slide Deck: []()
+  - Infographic: []()
+  - Similar Podcast App: []()
 
 - **09. Stop Database Crashes With Invisible Indexes!** 💰🔥
 
@@ -61,6 +65,10 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 - **11. Why Your Database Ignores Your Indexes?** 💰🔥
 
 - **12. Put Equality Columns First In Oracle Indexes!** ✅
+  - Video: []()
+  - Slide Deck: []()
+  - Infographic: []()
+  - Similar Podcast App: []()
 
 ## 🔍 About the Author
 
