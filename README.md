@@ -14,7 +14,7 @@ You're able to solve them entirely after finish learning the awesome curriculum 
 
 In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, and **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
 
-I've built the promotional activity for the curriculum. In other words, there has total **4** number of episodes (**1, 4, 8 and 12`**) are **`free`**. In fact you just master the **extra 8** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $8** from [https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO)).
+I've built the promotional activity for the curriculum. In other words, there has **4** number of episodes (**1**, **4**, **8** and **12**) are **`free`**. In fact you just master the **extra 8** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $8** from [https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO)).
 
 Here's an image about the **extra 8 number of episodes** when you finished purchasing this course.
 
@@ -26,7 +26,7 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
   - You can directly click each **`link`** in the **`Course Outline`** below.
 
 - **02. How can I learn the paid content?**
-  - You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`correct topic`**) to the **.html running in the browser** in order to listen the Podcast whilst learning the similar Podcast App.
+  - You can directly download **`8 number of episodes`** into your local computer to learn them after purchasing this curriculum from [https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO).
 
 ## 📚 Course Outline
 
@@ -36,13 +36,9 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
   - Infographic: [SQL Performance Theory vs. Reality.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/SQL%20Performance%20Theory%20vs.%20Reality.png)
   - Similar Podcast App: [Podcast-The Oracle Explain Plan illusion.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-The%20Oracle%20Explain%20Plan%20illusion.html) 
 
-- **02. The Hidden DML Tax of Indexes!** ✅
-  - Video: [The DML Tax.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/The%20DML%20Tax.mp4)
-  - Slide Deck: [The DML Tax.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/The%20DML%20Tax.pdf)
-  - Infographic: [Balancing Index Speed vs. Performance.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Balancing%20Index%20Speed%20vs.%20Performance.png)
-  - Similar Podcast App: [Podcast-The Hidden DML Tax of Indexes.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-The%20Hidden%20DML%20Tax%20of%20Indexes.html) 
+- **02. The Hidden DML Tax of Indexes!** 💰🔥
 
-- **03. Why Your Oracle Optimizer Is Lying?** **`(PAID)`**
+- **03. Why Your Oracle Optimizer Is Lying?** 💰🔥
 
 - **04. Oracle Access versus Filter Predicates!** ✅
   - Video: [Decoding SQL Plans.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Decoding%20SQL%20Plans.mp4)
@@ -50,11 +46,21 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
   - Infographic: [Database Access vs. Filter Predicates.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Database%20Access%20vs.%20Filter%20Predicates.png)
   - Similar Podcast App: [Podcast-Oracle Access versus Filter Predicates.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Oracle%20Access%20versus%20Filter%20Predicates.html) 
 
-- **05. Why Oracle A-Time Numbers Are Deceiving?** ✅
-  - Video: [Unmasking Oracle A-Time.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Unmasking%20Oracle%20A-Time.mp4)
-  - Slide Deck: [Decoding Oracle A-Time.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Decoding%20Oracle%20A-Time.pdf)
-  - Infographic: [Query Trace A-Time Anatomy.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Query%20Trace%20A-Time%20Anatomy.png)
-  - Similar Podcast App: [Podcast-Why Oracle A-Time Numbers Are Deceiving.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Why%20Oracle%20A-Time%20Numbers%20Are%20Deceiving.html) 
+- **05. Why Oracle A-Time Numbers Are Deceiving?** 💰🔥
+
+- **06. Why Oracle Optimizer Cost Is Total Fantasy?** 💰🔥
+
+- **07. Why Hard-Coded SQL Hints Fail?** 💰🔥
+
+- **08. How Duplicate Indexes Kill Oracle Performance?** ✅
+
+- **09. Stop Database Crashes With Invisible Indexes!** 💰🔥
+
+- **10. Why Index Rebuilding Ruins Database Performance?** 💰🔥
+
+- **11. Why Your Database Ignores Your Indexes?** 💰🔥
+
+- **12. Put Equality Columns First In Oracle Indexes!** ✅
 
 ## 🔍 About the Author
 
